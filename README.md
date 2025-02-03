@@ -1,6 +1,6 @@
-# ✏️ Mini Projeto Teste API Java Springboot
+# ✏️ Mini Projeto CRUD Java Springboot
 
 Projeto 4º semestre
 
 ## 📑 Objetivo:
-Criar de serviços de API restful com Springboot para testes com o software Insomnia.
+Criar de um CRUD com Java + Springboot para criação, leitura, atualização e exclusão de produtos.
