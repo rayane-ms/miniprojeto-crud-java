@@ -7,5 +7,6 @@ Criar de um CRUD com Java + Springboot para controle de pedidos e produtos.
 
 ## 📑 Requisitos:
 Para executar o projeto, você precisa ter:
-  • JDK 17
-  • Maven 3
+
+- JDK 17
+- Maven 3
